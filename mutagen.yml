@@ -1,0 +1,20 @@
+sync:
+  defaults:
+    mode: "two-way-resolved"
+    symlink:
+      mode: "posix-raw"
+    watch:
+      mode: "portable"
+  app:
+    alpha: "./"
+    beta: "vagrant@my-app:/home/vagrant/app"
+    ignore:
+      vcs: true
+      paths:
+        - ".idea"
+        - ".vagrant"
+        - "*-cloudimg-console.log"
+        - "Vagrantfile"
+    permissions:
+      defaultFileMode: 0644
+      defaultDirectoryMode: 0755

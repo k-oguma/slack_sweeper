@@ -1,0 +1,15 @@
+certifi==2019.11.28
+chardet==3.0.4
+colorama==0.4.3
+greenlet==0.4.15
+idna==2.8
+msgpack==0.6.2
+neovim==0.3.1
+pynvim==0.4.1
+python-dateutil==2.8.1
+python-dotenv==0.11.0
+requests==2.22.0
+six==1.14.0
+slack-cleaner2==2.0.1
+slacker==0.13.0
+urllib3==1.25.8

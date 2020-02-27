@@ -1,0 +1,7 @@
+.envrc
+.idea/
+venv/
+.vagrant/
+*-cloudimg-console.log
+slack-cleaner.*.log
+mutagen.yml.lock
