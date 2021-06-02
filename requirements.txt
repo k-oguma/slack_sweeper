@@ -12,4 +12,4 @@ requests==2.22.0
 six==1.14.0
 slack-cleaner2==2.0.1
 slacker==0.13.0
-urllib3==1.25.8
+urllib3==1.26.5
